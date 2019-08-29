@@ -2004,6 +2004,18 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-rAz6sIUH8U {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rAz6sIUH8U .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-rAz6sIUH8U .social-list a:focus {
+  text-decoration: none;
+}
 .cid-rywXFz1iu5 .google-map {
   height: 25rem;
   position: relative;
