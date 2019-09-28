@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ManjuHomePage",
-    "currentPage": "datenschutz.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -45,7 +45,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/bildschirmfoto-2019-08-10-um-13.51.39.png",
     "noImageResize": "",
     "sitemapSwitcher": "on",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-146767837-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-146767837-1');\r\n</script>",
+    "google-analytics": "",
     "gdpr": "Hiermit stimme ich den   <a href='datenschutz.html'>Datenschutzbestimmungen </a>zu.",
     "customCookies": {
       "colorText": "#424a4d",
